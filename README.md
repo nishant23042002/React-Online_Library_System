@@ -25,5 +25,7 @@ CSS / Tailwind
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/online-library-system.git
-cd online-library-system
+git clone https://github.com/nishant23042002/React-Online_Library_System
+cd Online_Library_System
+npm install
+npm run dev
